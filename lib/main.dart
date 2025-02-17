@@ -63,6 +63,11 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
+            Image.asset(
+              'assets/my_image.JPG',
+              height: 500,
+              width: 300,
+            ),
             const Text(
               'You have pushed the button this many times:',
               style: TextStyle(color: Colors.white, fontSize: 16),
