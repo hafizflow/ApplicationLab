@@ -1,0 +1,1 @@
+/Users/hafizurrahman/AndroidStudioProjects/ApplicationLab/build/app/intermediates/cxx/Debug/366364p5/obj/x86_64

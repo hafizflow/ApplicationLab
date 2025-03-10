@@ -1,0 +1,2 @@
+/Users/hafizurrahman/AndroidStudioProjects/ApplicationLab/android/app/.cxx/Debug/366364p5/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/hafizurrahman/AndroidStudioProjects/ApplicationLab/android/app/.cxx/Debug/366364p5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
