@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960777458748",
+    "project_id": "applicationlab-7ec54",
+    "storage_bucket": "applicationlab-7ec54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960777458748:android:b9d6b5b2a67d0db6fa1f39",
+        "android_client_info": {
+          "package_name": "com.example.applicationlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCadPkJJZSveHS3AzDXBc-7TObZFFVWgvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
